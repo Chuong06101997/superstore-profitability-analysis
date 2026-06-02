@@ -30,6 +30,9 @@ Rather than analyzing metrics independently, the investigation followed a root-c
 
 ### Product Analysis
 
+<img width="1313" height="742" alt="image" src="https://github.com/user-attachments/assets/c44bb1fb-bd89-4b68-8406-e04dbe79ada5" />
+
+
 Furniture was the least profitable category.
 
 Further analysis showed that losses were primarily driven by Tables and Bookcases.
@@ -38,11 +41,17 @@ Interestingly, Tables generated losses through many moderately unprofitable prod
 
 ### Regional Analysis
 
+<img width="1313" height="737" alt="image" src="https://github.com/user-attachments/assets/fbec4602-55e0-4ea4-994d-2188a6547587" />
+
+
 Losses from Tables and Bookcases were concentrated in the Central region.
 
 Central recorded the lowest margin among all regions (7.92%), suggesting that profitability issues were not evenly distributed across the business.
 
 ### Supply Chain Validation
+
+<img width="1311" height="741" alt="image" src="https://github.com/user-attachments/assets/8d92ffbf-23e3-416a-baeb-7e953dd7582d" />
+
 
 Delivery time, shipping mode, and shipping cost showed limited association with profitability.
 
@@ -57,6 +66,8 @@ The relationship remained visible after drilling into category and regional dime
 ---
 
 ## Business Simulation
+
+<img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/c911dd91-121a-4be5-9a99-c5e66410e233" />
 
 A What-If parameter was implemented in Power BI to simulate discount-cap scenarios.
 
