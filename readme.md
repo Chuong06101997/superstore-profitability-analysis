@@ -1,6 +1,7 @@
 # Profitability Improvement Analysis
 
-<img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/4f1276e5-81a7-4c3e-bde0-7aa637dbe1b1" />
+<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/4a2934b1-cbec-4864-85a9-43c2236bdd87" />
+
 
 
 ## Business Context
