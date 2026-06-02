@@ -1,5 +1,8 @@
 # Profitability Improvement Analysis
 
+<img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/4f1276e5-81a7-4c3e-bde0-7aa637dbe1b1" />
+
+
 ## Business Context
 
 Superstore generated $2.3M in sales from over 5,000 orders.
